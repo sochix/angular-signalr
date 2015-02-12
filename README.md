@@ -21,7 +21,7 @@ It's a perfect fit for any WebApp that consumes data from a SignalR.
 
 You can download this by:
 
-* Downloading it manually by clicking [here to download development unminified version](https://raw.github.com/sochix/angular-signalr/master/dist/angular-signalr.js) 
+* Downloading it manually by clicking [here to download development unminified version](https://raw.githubusercontent.com/sochix/angular-signalr/master/angular-signalr.js) 
 
 #Dependencies
 
