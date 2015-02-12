@@ -4,6 +4,8 @@ Angular-SignalR is an AngularJS service that simplifies  using SignalR in Angula
 
 It's a perfect fit for any WebApp that consumes data from a SignalR.
 
+***You can hire me! See my CV [here](https://www.dropbox.com/s/551a8gwlkmdf1gx/resume.pdf?dl=0)***
+
 #Table of contents
 
 - [Angular-SignalR](#Angular-SignalR)
