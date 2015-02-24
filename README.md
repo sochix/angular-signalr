@@ -1,5 +1,7 @@
 #Angular-SignalR
 
+![](https://lh6.googleusercontent.com/-SBZJu2lsEgc/VOxlNRTJcjI/AAAAAAAACNw/18sGfD3j2g8/w681-h74-no/cooltext1933450417.png)
+
 Angular-SignalR is an AngularJS service that simplifies  using SignalR in AngularJS projects. You can invoke server methods and create client handlers with a minimum of client code.
 
 It's a perfect fit for any WebApp that consumes data from a SignalR.
