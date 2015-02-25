@@ -78,15 +78,19 @@ This function has 2 parameters:
 SignalRService.addHandler('helloWorld', function() { alert("Hello world!"); });
 ````
 
-### invoke(serverMethodName)
+### invoke(serverMethodName, params)
 Invoking server method from client.
 
 * **serverMethodName**: The server method name
+* **optional server method parameters**: server methods parameters
 
 #### Example:
 
 ````javascript
 SignalRService.invoke('Login');
+````
+````javascript
+SignalRService.invoke('SendMessage', 'someString');
 ````
 
 ## Contributing
